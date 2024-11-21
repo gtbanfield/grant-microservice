@@ -1,0 +1,6 @@
+pipeline:
+  name: grant-microservice
+  identifier: grant-microservice
+  projectIdentifier: IDA
+  orgIdentifier: default
+  tags: {}
